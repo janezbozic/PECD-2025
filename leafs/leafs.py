@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os, sys, cv2, numpy as np
 import onnxruntime as ort
 
