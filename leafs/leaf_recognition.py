@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # leaf_recognition.py
 """
 Leaf segmentation using a pre-trained U²-Net (u2netp.onnx).
